@@ -1,0 +1,1 @@
+This is Janae's first git project
